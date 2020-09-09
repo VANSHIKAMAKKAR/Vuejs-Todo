@@ -1,0 +1,9 @@
+{
+  "todo-service": {
+    "username": "root",
+    "password": "goldtree9",
+    "database": "todo_service_database",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
